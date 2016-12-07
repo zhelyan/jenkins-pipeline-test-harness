@@ -1,0 +1,11 @@
+out/
+.idea/
+*.iml
+**/*.gdsl
+**/_test*.groovy
+target/
+unitTestReports
+.gradle/
+build/
+src/main/
+src/test/
